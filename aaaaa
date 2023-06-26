@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" href="styles.CSS"
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сайт</title>
+</head>
+<body>
+    
+    <h1>Заголовой 1</h1>
+    <h2>Заголовой 2</h2>
+    <h3>Заголовой 3</h3>
+    <h4>Заголовой 4</h4>
+    <h5>Заголовой 5</h5>
+    <h6>Заголовой 6</h6>
+
+    <p class="p1">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, doloremque ab ratione recusandae amet inventore provident perferendis corrupti? Placeat suscipit in, ab rem recusandae amet dolore quos odit architecto provident.</p>
+    <p class="p2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Velit, perspiciatis neque perferendis inventore in fugit magnam sit, incidunt, fuga mollitia ipsum cum magni! Facere odio adipisci sint magnam recusandae praesentium.</p>
+    <p class="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, laboriosam assumenda tenetur ipsa iste deserunt esse a, corporis eveniet mollitia eum accusamus ut quisquam itaque. Perferendis illo amet veritatis a.</p>
+
+    <div>
+        <span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sed ex laboriosam illo at consequuntur illum sunt perspiciatis adipisci voluptatibus commodi voluptatum minus laudantium aliquam quasi consectetur, nobis porro accusamus? Cum?</span>
+    </div>
+    <div>
+        <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis debitis nulla quos distinctio, non quisquam dolorem ex, repellendus nihil explicabo et minus corporis harum voluptatibus? Illum et fuga dolore molestias?</span>
+    </div>
+
+    <ol>
+        <li> 1 cat </li>
+        <li> 2 cat </li>
+        <li> 3 cat </li>
+    </ol>
+
+
+    <p class="p4">Этот текст мое домашнее задание!</p>
+
+
+    <img src="картинка.jpg">
+
+</body>
+</html>
